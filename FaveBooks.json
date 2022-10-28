@@ -1,5 +1,5 @@
 {
-    "My Favorite Books" :[ {
+    
         "Book1" : {
             "title" : "Thinking Fast and Slow",
             "author" : ["Daniel Kahaneman"],
@@ -19,5 +19,4 @@
             "Year Published" : "2012"
         }
         
-    }]
 }
