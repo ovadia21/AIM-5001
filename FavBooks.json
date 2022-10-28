@@ -1,4 +1,4 @@
-{"My Favorite Books" :[
+
 	{
 	"title" : "Thinking Fast and Slow",
 	"author" : ["Daniel Kahaneman"],
@@ -17,4 +17,3 @@
 	"topic" : ["Behavioral Finance"],
 	"yearpublished" : "2012"
 	}
-]}
