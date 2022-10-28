@@ -1,0 +1,23 @@
+{
+    "My Favorite Books" :[ {
+        "Book1" : {
+            "title" : "Thinking Fast and Slow",
+            "author" : ["Daniel Kahaneman"],
+            "topic" : "Behavioral Economics",
+            "Year Published" : "2011"
+        },
+        "Book2" :{
+            "title" : "Nudge",
+            "author" : ["Richard H. Thaler", "Cass R. Sunstein"],
+            "topic" : "Behavioral Economics",
+            "Year Published" : "2008"
+        },
+        "Book3" : {
+            "title" : "Antifragile",
+            "author" : ["Nicholas Nassim Taleb"],
+            "topic" : "Behavioral Finance",
+            "Year Published" : "2012"
+        }
+        
+    }]
+}
